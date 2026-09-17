@@ -1,0 +1,6 @@
+{
+  "name": "Joy - Schedule Builder",
+  "description": "Interactive wedding schedule builder with real-time website preview, event editing, and guest update notification flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
